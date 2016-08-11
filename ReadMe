@@ -1,0 +1,10 @@
+ 
+Projeto java criado na ide eclipse. 
+Objetivo do projeto: consumir o serviço do EJB Wildfly_EJB.
+
+Endereço do projeto EJB: https://github.com/estevamdf2/WildflyEJB.git
+
+O projeto foi criado com base no seguinte artigo: Trabalhando com Session Beans Stateless e Stateful
+Link para acesso: http://www.devmedia.com.br/trabalhando-com-session-beans-stateless-e-stateful/28260
+
+Para executar o projeto abra execute a seguinte classe: ConsoleViewCotacao.java
